@@ -5,7 +5,7 @@
 
 
 ## Contact information
-* **E-mail:** **alex@strelch.ru**
+* **E-mail:** **[alex@strelch.ru](mailto:alex@strelch.ru)**
 * **LinkedIn:** **[linkedin.com/in/strelchanka](https://www.linkedin.com/in/strelchanka/)**
 * **Telegram:** **[alexspears](https://t.me/alexspears)**
 * **Discord:** [**Alexander S. (@alexspearsi)**](https://discordapp.com/users/604304135382368256)
