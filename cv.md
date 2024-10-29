@@ -49,3 +49,14 @@ const employee = new Employee('Alex', 25, 'Software Developer');
 employee.greet();  
 employee.work();  
 ```
+
+## Education
+* **Polotsk State University**, 2016-2020  
+  Faculty of History and Philology & Faculty of Finance and Economics
+
+
+
+## Languages
+1. Russian - Native
+2. English - Upper-Intermediate (according to EPAM)
+3. Hebrew - Upper-Intermediate  (In 2023, I held the position of counselor in a children's camp in Montreal, Canada, which offered bilingual communication in English and Hebrew)
