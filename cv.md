@@ -1,5 +1,5 @@
 # Alexander Strelchenko
-![Photo](./photo.png.jpg)
+![Photo](./photo.png)
 
 
 
